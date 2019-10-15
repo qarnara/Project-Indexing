@@ -1,6 +1,6 @@
 # Project-Indexing
 
-# A. Text Indexing (Swish-e)
+#--A. Text Indexing (Swish-e)
 
 1. install swish-e dengan syntax: `sudo apt-get install swish-e`
 ![alt text](https://github.com/qarnara/Project-Indexing/blob/master/Screenshot/text1.png)
