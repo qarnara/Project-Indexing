@@ -1,6 +1,6 @@
 # Project-Indexing
 
-#--A. Text Indexing (Swish-e)
+A. Text Indexing (Swish-e)
 
 1. install swish-e dengan syntax: `sudo apt-get install swish-e`
 ![alt text](https://github.com/qarnara/Project-Indexing/blob/master/Screenshot/text1.png)
@@ -24,7 +24,7 @@ isi text file provinsi.txt
 
 
 
-# B. Image Search Indexing
+B. Image Search Indexing
 
 1. Pertama kita lakukan clone pada git dengan syntax `git clone https://github.com/kudeh/image-search-engine`
 ![alt text](https://github.com/qarnara/Project-Indexing/blob/master/Screenshot/img1.jpg)
